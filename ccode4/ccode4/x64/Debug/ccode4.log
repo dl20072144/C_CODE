@@ -1,0 +1,4 @@
+﻿  text 4.c
+C:\Users\dl200\Documents\vsprojects\ccode4\ccode4\text 4.c(74,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\dl200\Documents\vsprojects\ccode4\ccode4\text 4.c(74,9): message : 请考虑在格式字符串中使用“%zd”
+  ccode4.vcxproj -> C:\Users\dl200\Documents\vsprojects\ccode4\x64\Debug\ccode4.exe
