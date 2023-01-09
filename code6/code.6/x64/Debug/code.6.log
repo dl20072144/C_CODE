@@ -1,0 +1,6 @@
+﻿  text 6.c
+C:\Users\dl200\Documents\vsprojects\code.6\code.6\text 6.c(42,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\dl200\Documents\vsprojects\code.6\code.6\text 6.c(42,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\dl200\Documents\vsprojects\code.6\code.6\text 6.c(43,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\dl200\Documents\vsprojects\code.6\code.6\text 6.c(43,9): message : 请考虑在格式字符串中使用“%zd”
+  code.6.vcxproj -> C:\Users\dl200\Documents\vsprojects\code.6\x64\Debug\code.6.exe
